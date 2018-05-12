@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1995
     wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22492#Reise-in-die-Aequinoctial-Gegenden-des-neuen-Continents.-Band-1.
 gutenberg_bookshelf:
 - DE Sachbuch
 - German Language Books
