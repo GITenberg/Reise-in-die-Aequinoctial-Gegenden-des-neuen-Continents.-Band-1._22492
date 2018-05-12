@@ -1,0 +1,47 @@
+_repo: Reise-in-die-Aequinoctial-Gegenden-des-neuen-Continents.-Band-1._22492
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hauff, Hermann
+    birthdate: 1800
+    deathdate: 1865
+    gutenberg_agent_id: '39587'
+    url: http://www.gutenberg.org/2009/agents/39587
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Humboldt, Alexander von
+    aliases:
+    - Von Humboldt, Alexander
+    - Humboldt, Friedrich Wilhelm Heinrich Alexander von
+    birthdate: 1769
+    deathdate: 1859
+    gutenberg_agent_id: '1995'
+    url: http://www.gutenberg.org/2009/agents/1995
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- German Language Books
+gutenberg_issued: '2007-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22492'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcc 'F2301'
+- !lcsh 'South America -- Description and travel'
+- !lcc 'F2201'
+- !lcsh 'Geology -- South America'
+- !lcsh 'South America -- History'
+- !lcc 'QE'
+- !lcc 'G'
+- !lcsh 'Natural history -- South America'
+title: Reise in die Aequinoctial-Gegenden des neuen Continents. Band 1.
+url: http://www.gutenberg.org/ebooks/22492
